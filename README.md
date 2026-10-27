@@ -7,7 +7,7 @@
 ---
 
 ## Project Structure
-
+```
 mlds-assignment1/
 ├── value_iteration/
 │   └── shuttle_mdp.py          # Part 2: Shuttle dispatching problem (Enumeration, Value & Policy Iteration)
@@ -21,6 +21,7 @@ mlds-assignment1/
 │   ├── pong_training.png              # Pong training reward curve & moving average
 │   └── cartpole_baseline_training.png # CartPole with baseline training curve
 └── README.md
+```
 ---
 ## Prerequisites & Environment Setup
 Ensure you are using **Python 3.10+** and macOS/Linux. Set up your virtual environment and install the required dependencies:
